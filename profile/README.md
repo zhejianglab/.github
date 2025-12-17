@@ -2,7 +2,7 @@
 
 ### Zhejiang Lab Open Source Community
 
-Zhejiang Lab promotes the open-science principles of openness, collaboration, sharing, and discovery. We actively advance the “AI+” paradigm, driving scientific discovery and technology development with advanced AI models. These include both foundational scientific models and domain-specific models that support research and technological progress. We welcome everyone to join us and get involved.
+Zhejiang Lab promotes the open-science principles of openness, collaboration, sharing, and discovery. We actively advance the “AI+” paradigm, leveraging advanced AI methods to drive scientific discovery and technological development. We welcome everyone to join us and get involved.
 
 - 🚀 Explore featured projects  
     Discover ZJ Lab’s open science model family, including scientific foundation models, domain-specific scientific models, and tools for evaluation and data processing.
